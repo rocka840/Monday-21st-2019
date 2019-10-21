@@ -1,0 +1,7 @@
+important: innerHTML
+
+<p id="BLA">
+write test
+</p><Button mclick="Short">
+
+want the write test to dissapear with a click of a Button
