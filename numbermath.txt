@@ -1,0 +1,6 @@
+N
+if N is even; divide it by 2
+
+if N is odd; mutliply by 3 and add 1
+
+5-16-8-4-2-1
